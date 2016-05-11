@@ -9,8 +9,9 @@ gem 'sass-rails'
 gem 'devise', '>= 3.2.4'
 gem 'carrierwave'
 gem "figaro"
-gem "fog", "~> 1.3.1"
+
 gem 'mini_magick', '~> 4.3.1'
+gem 'carrierwave-aws'
 
 gem 'simple_form'
 
