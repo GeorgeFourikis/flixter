@@ -10,8 +10,10 @@ gem 'devise', '>= 3.2.4'
 gem 'carrierwave'
 gem "figaro"
 gem "fog", "~> 1.3.1"
+gem 'mini_magick'
 
 gem 'simple_form'
+
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
