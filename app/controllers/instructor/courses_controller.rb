@@ -2,8 +2,7 @@ class Instructor::CoursesController < ApplicationController
   before_action :authenticate_user!
 
   def new
-  	@course = Course.find(params[:course_id])
-    @section = Section.new
+  	@course = Course.new
   end
 
   def create
