@@ -15,6 +15,8 @@ gem 'carrierwave-aws'
 
 gem 'simple_form'
 
+gem 'stripe'
+
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
