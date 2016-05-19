@@ -16,6 +16,8 @@ gem 'carrierwave-aws'
 gem 'simple_form'
 
 gem 'stripe'
+gem 'ranked-model'
+
 
 
 
